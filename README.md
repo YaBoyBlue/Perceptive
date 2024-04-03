@@ -1,6 +1,6 @@
 # Perceptive
 
-Perceptive is an Arma 3 addon inspired by CH View Distance which expands the users control in multiple ways. Including the ability to adjust the volume of effects, ambient, and music, from the same menu.
+Perceptive is an Arma 3 addon inspired by CH View Distance which expands the user's control in multiple ways. Including the ability to adjust the volume of effects, ambient, and music, from the same menu.
 
 Settings will save to the profileNamespace and be loaded upon mission start. They will sync to and automatically adjust to the type of vehicle you're in. The menu can be opened, and the main options may be increased or decreased, with keybindings of the users choice.
 
